@@ -1,7 +1,7 @@
 # Adaptive-Beamforming-Using-Machine-Learning-in-Matlab
-Adaptive Beamforming techniques can be enhanced using Machine Learning Algorithms. 
+Adaptive Beamforming techniques can be enhanced by using Machine Learning Algorithms. 
 
-As a basis Least Meas Squares algorithm (adaptive) was used to calculate weigths and to develop the dataset.
+As a basis Least Means Squares algorithm (adaptive) was used to calculate weigths and to develop the dataset.
 
 Three different machine learning agorithms were used, so that users can compare different designs and choose suitable results:
 
